@@ -18,3 +18,10 @@ hamburger, maker e restaurant che fanno parte dell'oggetto principale = 3
 structuredClone, clona la variabile principale 2 volte, quindi il totale delle variabili è = 3
 var * obj = 9
 */
+
+
+
+// Code Question 4
+
+// il metodo migliore per clonare l'oggetto "chef" è lo spread operator perchè contiene dati primitivi e una funzione
+// il metodo migliore per clonare l'oggetto "restaurant" è structureClone, perchè contiene oggetti annidati e dati complessi (Date)
